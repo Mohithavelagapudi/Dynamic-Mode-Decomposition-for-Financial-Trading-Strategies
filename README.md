@@ -172,11 +172,6 @@ Built using <span style="color:#FF9800">Streamlit</span> with the following feat
   - DMD Modes  
   - Eigenvalue Spectra  
   - Temporal Dynamics  
-
-<p align="left">
-  <img src="image (38).png" alt="" width="700"/>
-</p>
-
 ---
 
 ## 📊 4. Results & Analysis
