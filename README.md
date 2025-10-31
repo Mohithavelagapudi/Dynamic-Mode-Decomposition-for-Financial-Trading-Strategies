@@ -174,7 +174,7 @@ Built using <span style="color:#FF9800">Streamlit</span> with the following feat
   - Temporal Dynamics  
 
 <p align="left">
-  <img src="image (38).png" alt="" width="800"/>
+  <img src="image (38).png" alt="" width="700"/>
 </p>
 
 ---
@@ -186,10 +186,6 @@ Built using <span style="color:#FF9800">Streamlit</span> with the following feat
 | **MAE** | `15.5299` | Average absolute prediction error |
 | **MAPE** | `1.94%` | <span style="color:#4CAF50">Excellent short-term forecasting accuracy (less than 2% relative error)</span> |
 
----
-<p align="left">
-  <img src="image (37).png" alt="" width="800"/>
-</p>
 
 ---
 
